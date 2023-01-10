@@ -1,5 +1,5 @@
 # MS W98 UI
-MS W98 UI is a modification to the original MS Sans Serif, which was the default system UI typeface of **Microsoft Windows 3.1, 95, 98 and ME**.
+MS W98 UI is a conversion of the original MS Sans Serif, which was the default system UI typeface of **Microsoft Windows 3.1, 95, 98 and ME**.
 
 This is not an exclusive martyr⁠— creation, but rather a continuation of the work of many different authors.
 
